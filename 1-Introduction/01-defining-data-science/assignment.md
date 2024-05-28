@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Data to understand most requested courses | applications on courses | structured, student metadata and course applied for, finished y/n | what type of students take what course and if they completed the course or not |
+| Vaccination | Data to meassure sideeffects | Medical sideeffects based on vaccination | unstructured, medical notes about patients | based on generalisation of patient what sideeffects are there |
+| Productivity | Data to understand peek hours for procrastination | active sessions online | structured, sessions and users | when are the peek hours of procrastination and do something with it |
 
 ## Rubric
 
